@@ -47,7 +47,7 @@
 			</div>
 			<div class="modal-body">
 				<input type="text" class="pluginFinder" name="pluginName" style="width:70%;" placeholder="CSS or JS library name ex: jquery"> <span class="searchLibs">Search</span>
-				<br><small>A directory will be created as the plugin name, so make it uniqe.</small>
+				<br><small>Type the name for your plugin's, e.g: cookie</small>
 				<div class="plug_resutls"></div>
 			</div>
 			<div class="modal-footer">
